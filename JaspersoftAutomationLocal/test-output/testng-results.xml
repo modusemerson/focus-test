@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30223" started-at="2023-01-17T16:38:21Z" finished-at="2023-01-17T16:38:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30223" started-at="2023-01-17T16:38:21Z" finished-at="2023-01-17T16:38:51Z">
+      <class name="Jasper.Automation.Tests.Tests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Jasper.Automation.Tests.Tests@5622fdf]" name="setup" is-config="true" duration-ms="9586" started-at="2023-01-17T10:38:21Z" finished-at="2023-01-17T10:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Focus_test_exercise()[pri:0, instance:Jasper.Automation.Tests.Tests@5622fdf]" name="Focus_test_exercise" duration-ms="14886" started-at="2023-01-17T10:38:31Z" finished-at="2023-01-17T10:38:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Focus_test_exercise -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Jasper.Automation.Tests.Tests@5622fdf]" name="tearDown" is-config="true" duration-ms="5737" started-at="2023-01-17T10:38:46Z" finished-at="2023-01-17T10:38:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Jasper.Automation.Tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
