@@ -19,7 +19,6 @@ instructions about how to install all tools mentioned above to start using the S
    10. The project file will show up in the menu, select the file and open
    11. Project should be loaded in Eclipse
   ![Project Explorer](images/projexplorer.PNG)
-   12. Check this video for reference <https://loom.com/share/694e804600ce4bd9814e16fb79b93399>
 
 
 ## Usage
@@ -28,6 +27,7 @@ instructions about how to install all tools mentioned above to start using the S
   ![Test cases](images/testcases.PNG)
   2. Test can be executed by doing right click on the class name and then Run as: TestNG
   ![Run as TestNG](images/runastestng.PNG)
+  3. Check this video for reference <https://loom.com/share/694e804600ce4bd9814e16fb79b93399>
 
 
 # Focus assesment - postman Tests
