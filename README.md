@@ -17,8 +17,8 @@ instructions about how to install all tools mentioned above to start using the S
    8. Click on File menu, then click on Open Project from File System
    9. Navigate to the test project: \focus-test\JaspersoftAutomationLocal
    10. The project file will show up in the menu, select the file and open
-   11. Project should be loaded in Eclipse
-  ![Project Explorer](images/projexplorer.PNG)
+   11. Project should be loaded in Eclipse ![Project Explorer](images/projexplorer.PNG)
+  
 
 
 ## Usage
@@ -36,7 +36,8 @@ This ia a collection built in postman, download the colleciton and import from y
 
 ## Usage
    1. Clone this Repo to your local
-   2. load postman colleciton from your postman app
-   3. navigate to 
-   4. 
-   5. 
+   2. load postman collection and the environment file in your postman app 
+      path: /focus-test/tree/main/postmantests
+   3. Once collecitons and env files are loaded you can run each request one by one
+   4. You can also run the whole colleciton using the postman test runner by doing right click on collection the Run colleciton
+   5. Check this video for reference <https://loom.com/share/770882db7cac487490937ab018d59567>
