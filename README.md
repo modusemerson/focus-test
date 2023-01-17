@@ -13,11 +13,12 @@ instructions about how to install all tools mentioned above to start using the S
    6. Enter url <http://dl.bintray.com/testng-team/testng-eclipse-release> in the ‘work with’ input box
   ![Work with](images/with.PNG)
    7. Eclipse will find TestNG click on check box and click next until installation complete
-   ![Testing](images/testng.PNG)
+  ![Testing](images/testng.PNG)
    8. Click on File menu, then click on Open Project from File System
    9. Navigate to the test project: \focus-test\JaspersoftAutomationLocal
    10. The project file will show up in the menu, select the file and open
-   11. Project should be loaded in Eclipse ![Project Explorer](images/projexplorer.PNG)
+   11. Project should be loaded in Eclipse.
+  ![Project Explorer](images/projexplorer.PNG)
   
 
 
@@ -32,7 +33,7 @@ instructions about how to install all tools mentioned above to start using the S
 
 # Focus assesment - postman Tests
 
-This ia a collection built in postman, download the colleciton and import from your postman
+This is a collection built in postman, download the colleciton and import from your postman
 
 ## Usage
    1. Clone this Repo to your local
