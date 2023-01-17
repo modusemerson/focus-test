@@ -19,7 +19,7 @@ instructions about how to install all tools mentioned above to start using the S
    10. The project file will show up in the menu, select the file and open
    11. Project should be loaded in Eclipse
   ![Project Explorer](images/projexplorer.PNG)
-   12. Check this video for reference  [Link](https://loom.com/share/694e804600ce4bd9814e16fb79b93399)
+   12. Check this video for reference <https://loom.com/share/694e804600ce4bd9814e16fb79b93399>
 
 
 ## Usage
