@@ -38,6 +38,6 @@ This ia a collection built in postman, download the colleciton and import from y
    1. Clone this Repo to your local
    2. load postman collection and the environment file in your postman app 
       path: /focus-test/tree/main/postmantests
-   3. Once collecitons and env files are loaded you can run each request one by one
-   4. You can also run the whole colleciton using the postman test runner by doing right click on collection the Run colleciton
+   3. Once collection and env files are loaded you can run each request one by one
+   4. You can also run the whole collection using the postman test runner by doing right click on collection then "Run collection"
    5. Check this video for reference <https://loom.com/share/770882db7cac487490937ab018d59567>
